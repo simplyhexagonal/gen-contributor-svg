@@ -1,7 +1,7 @@
 {
   "name": "gen-contributor-svg",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generate a contributor SVG from a GitHub username",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
