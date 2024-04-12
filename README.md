@@ -20,7 +20,6 @@ The script will fetch the user's avatar image from GitHub, embed it in a templat
 ## Dependencies
 
 - axios
-- fs
 
 ## License
 
